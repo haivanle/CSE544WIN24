@@ -1,0 +1,15 @@
+================================================================
+levh
+
+Analyzing Financial Performance and Market Trends for S&P 500 Companies from 1992-2023
+
+Hai Van Le, Katie Overengland, JB Huang
+
+proposal
+
+plans to do certain analysis on financial data.  9 concrete questions
+are listed.  Will use postgres plus python.
+
+looks good
+
+9%

@@ -1,0 +1,18 @@
+milestone
+
+Analyzing Executive Compensation, Financial Performance and Market Trends for S&P 500 Companies from 1992-2023
+Hai Van Le, Katie Overengland, JB Huang
+
+Goal is to study the correlation between executive pay and performance
+indicators of their companies.  Several questions are listed.  Project
+has access to the Wharton Research Data Services WRDS through the UW
+library. Will use Snowflake, Python, Tableau.  The milestone includes
+several SQL queries on individual tables: for the final report please
+mover these large SQL queries to an appendix, and focus instead on the
+qualitative discussion of your analysis.  Plans to integrate the
+individual datasets.  Looks good.
+
+Top of page 2: "three datasets 1" -> "three datasets shown in Figure
+1".
+
+60%
